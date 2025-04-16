@@ -5,3 +5,5 @@ embed this site: https://exquisite-gumdrop-e463f1.netlify.app/xtreme_good_guys_v
 I made this because the site that host the client is going to expire on 04/16/2025.
 
 Feel free to use this in any unblocked games sites, just upload these files and open xtreme_good_gus_vs_bad.html 
+
+i couldnt upload the data file because its too big for github but you can find it here:
